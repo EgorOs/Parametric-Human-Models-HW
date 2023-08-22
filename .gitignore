@@ -61,3 +61,6 @@ __pycache__
 cluster_scripts
 internal
 *TestSamples*
+
+.lsp_symlink
+.virtual_documents
