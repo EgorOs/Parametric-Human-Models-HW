@@ -1,0 +1,3 @@
+newmtl FaceTexture
+map_Kd egor.png
+disp task_data/results/egor/egor_normals.png
